@@ -1,0 +1,147 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Formica_Laminate_Light
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.274510 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/Formica_Laminate_Light.jpg
+
+newmtl IMG_0301_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.701961 0.670588 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/IMG_0301_1.jpg
+
+newmtl M_0046_Gold
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.839216 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal_Seamed
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/Metal_Seamed.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal_Steel_Textured
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.431373 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/Metal_Steel_Textured.jpg
+
+newmtl Color_D21
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.149020 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_D17
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.117647 0.027451
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_C17
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.239216 0.078431
+Ks 0.330000 0.330000 0.330000
+
+newmtl lion1
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.450980 0.188235
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/lion1.jpg
+
+newmtl lion2
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.600000 0.400000
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/lion2.jpg
+
+newmtl _2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl lion
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.698039 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/lion.jpg
+
+newmtl Wood_Cherry_Original
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.337255 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/Wood_Cherry_Original.jpg
+
+newmtl Metal_Embossed
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.564706 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/Metal_Embossed.jpg
+
+newmtl Metal_Corrogated_Shiny
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/Metal_Corrogated_Shiny.jpg
+
+newmtl Color_D08
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.678431 0.317647
+Ks 0.330000 0.330000 0.330000
+
+newmtl Translucent_Glass_Blck_Dark
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.486275 0.474510
+Ks 0.330000 0.330000 0.330000
+d 0.800000
+map_Kd gereja katedral/Translucent_Glass_Blck_Dark.jpg
+
+newmtl Color_M00
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_D06
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.600000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Slate_Light_Tile
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.211765 0.211765
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/Slate_Light_Tile.jpg
+
+newmtl Field_Square_Tile
+Ka 0.000000 0.000000 0.000000
+Kd 0.850980 0.788235 0.662745
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/Field_Square_Tile.jpg
+
+newmtl Roofing_Tile_Spanish
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.250980 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/Roofing_Tile_Spanish.jpg
+
+newmtl Slate
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.431373 0.423529
+Ks 0.330000 0.330000 0.330000
+map_Kd gereja katedral/Slate.jpg
+
+newmtl Translucent_Glass_Block_Dark
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.486275 0.474510
+Ks 0.330000 0.330000 0.330000
+d 0.800000
+map_Kd gereja katedral/Translucent_Glass_Block_Dark.jpg
+

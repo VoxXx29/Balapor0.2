@@ -1,0 +1,11 @@
+Model Information:
+* title:	Masjid Akhlaqul Karimah
+* source:	https://sketchfab.com/3d-models/masjid-akhlaqul-karimah-f9067dde743947fbac386e48c8e0a7aa
+* author:	nana_zhr (https://sketchfab.com/nana_zhr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Masjid Akhlaqul Karimah" (https://sketchfab.com/3d-models/masjid-akhlaqul-karimah-f9067dde743947fbac386e48c8e0a7aa) by nana_zhr (https://sketchfab.com/nana_zhr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
