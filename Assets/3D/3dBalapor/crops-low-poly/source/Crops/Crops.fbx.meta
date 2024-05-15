@@ -3,7 +3,32 @@ guid: 84bd155efbee0394a80c37874586d4f1
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carrot
+    second: {fileID: 2100000, guid: 8b28af37247471f4287dccba715c80cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirt
+    second: {fileID: 2100000, guid: 5316f2a015b157c49b3c1a251a970a74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Potatoe
+    second: {fileID: 2100000, guid: dacc406431ba8944099900139992ba90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tomatoe
+    second: {fileID: 2100000, guid: 7a6cb85367890144e92756cbddf7a98a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheat
+    second: {fileID: 2100000, guid: ca9e2169b55dda644b63ea96ae31da3e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
